@@ -390,7 +390,7 @@ def team():
 
     # Placeholder images (replace these with actual image paths or URLs)
     charlie = "https://pbs.twimg.com/profile_images/1308737414622523392/0sp7hZnl_400x400.jpg"
-    patrick = "https://media.licdn.com/dms/image/v2/D4E03AQFkZU80mmlO_Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728603648025?e=1738195200&v=beta&t=NF73htQsHJUOPydU0iM3JtYkBcX6QtUqPm7nadJg9Z8"
+    patrick = "https://media.licdn.com/dms/image/v2/D4E03AQFkZU80mmlO_Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728603648025?e=1744243200&v=beta&t=m37_OAtXRdKyKQ-LAC5y7Gs_jFe29tyvQgEeoVJvNQc"
     herman = "https://media.licdn.com/dms/image/v2/D4D03AQEmix5C_NCUmw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722878460687?e=1738195200&v=beta&t=Lq3S0aGCQDa1SFfeRE_4nKMQWLfECBRVAkXdBmRZq5w"
     groupie = "https://media.licdn.com/dms/image/v2/D4E03AQH9fAFmyOeKqg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1689583863282?e=1738195200&v=beta&t=X5TX8UYRiHAyu5OJwHaXTicXj161zI5QKLqS_gmj_C8"
     tom = "https://media.licdn.com/dms/image/v2/D5603AQF1V-lIwfF1cQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731794459905?e=1738195200&v=beta&t=2qviQU4GF4GclGxVW9GrbnOyBpP8UqzmhK0xnllCxRk"
@@ -399,9 +399,9 @@ def team():
     team = [
         {"name": "Charlie Shirazi", "title": "Team Lead",  "image": charlie},
         {"name": "Patrick Sweeney", "title": "Data Analyst",  "image": patrick},
-        {"name": "Tom Rush", "title": "Design Lead", "image": tom},
-        {"name": "Herman Hesby", "title": "Organizer", "image": herman},
-        {"name": "Christian Agreda", "title": "Model Developer/Test Subject",  "image": groupie},
+        {"name": "Tom Rush", "title": "Design Lead", "image": patrick},
+        {"name": "Herman Hesby", "title": "Organizer", "image": patrick},
+        {"name": "Christian Agreda", "title": "Model Developer/Test Subject",  "image": patrick},
     ]
 
     # Create columns for team members
